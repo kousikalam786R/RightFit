@@ -1,0 +1,38 @@
+/* .hover-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+.buy-button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+.buy-button:hover {
+  background-color: #2980b9;
+} */
+
+.item {
+  background: #fafdff;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.info {
+  margin: 30px 30px 15px 0;
+  padding: 30px;
+}
